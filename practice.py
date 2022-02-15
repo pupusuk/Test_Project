@@ -3,3 +3,4 @@ dict["apple"]=10000
 print(dict["apple"])
 print("hello")
 print("world")
+print("hi")
